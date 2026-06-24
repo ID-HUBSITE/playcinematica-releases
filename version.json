@@ -1,1 +1,1 @@
-{"latestVersion":"1.0.2","releaseNotes":"Resolved black screen issue when playing next episode in TV Shows / Web Series, and added automatic FCM notification token registration on session change.","downloadUrl":"https://github.com/ID-HUBSITE/playcinematica-releases/raw/main/app-release-optimized.apk"}
+{"latestVersion":"1.0.5","releaseNotes":"Resolved video quality track formatting to correctly display widescreen and letterboxed 4K streams as 2160p instead of 1920p.","downloadUrl":"https://github.com/ID-HUBSITE/playcinematica-releases/raw/main/app-release-optimized.apk"}
