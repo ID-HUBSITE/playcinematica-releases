@@ -1,2 +1,2 @@
-{"latestVersion":"1.0.12","releaseNotes":"Critical ad revenue fix: Switched from Interstitial_Android (low CPM, 5s skip) to Rewarded_Android (high CPM, full video watch) for maximum ad earnings. All ad methods renamed for clarity.","downloadUrl":"https://github.com/ID-HUBSITE/playcinematica-releases/raw/main/app-release-optimized.apk"}
+{"latestVersion":"1.0.13","releaseNotes":"Premium Picture-in-Picture (PiP) player update! When playing a video, tapping Back or Home will smoothly transition the stream to a floating mini-player. Tapping the mini-player returns it to fullscreen.","downloadUrl":"https://github.com/ID-HUBSITE/playcinematica-releases/raw/main/app-release-optimized.apk"}
 
