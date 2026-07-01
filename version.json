@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.31",
-  "releaseNotes": "Expose detailed error diagnostics for playback initialization failures.",
+  "latestVersion": "1.0.32",
+  "releaseNotes": "Fix handshake challenge parsing on secure channel initialization.",
   "downloadUrl": "https://github.com/ID-HUBSITE/playcinematica-releases/raw/main/app-release-optimized.apk"
 }
