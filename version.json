@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.29",
-  "releaseNotes": "Premium Notification Design & PiP Fix! Netflix-style right-side thumbnail notifications with metadata badges (year, genre, rating). Interactive Watch Now & More Info action buttons. Fixed PiP auto-trigger bug on Home screen when not watching a video.",
+  "latestVersion": "1.0.30",
+  "releaseNotes": "Fix playback initialization errors and dynamic security headers validation.",
   "downloadUrl": "https://github.com/ID-HUBSITE/playcinematica-releases/raw/main/app-release-optimized.apk"
 }
