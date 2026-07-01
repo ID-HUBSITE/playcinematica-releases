@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.32",
-  "releaseNotes": "Fix handshake challenge parsing on secure channel initialization.",
+  "latestVersion": "1.0.33",
+  "releaseNotes": "Transition to production release certificate signature (fixes Play Protect Advanced Protection blocks).",
   "downloadUrl": "https://github.com/ID-HUBSITE/playcinematica-releases/raw/main/app-release-optimized.apk"
 }
